@@ -1,6 +1,11 @@
 import express from 'express';
 import cookieParser from 'cookie-parser';
 import cors from 'cors';
+import dotenv from "dotenv";
+
+dotenv.config();
+
+
 
 // import all routes
 import authRouter from './routes/auth.routes.js';
@@ -8,11 +13,12 @@ import interviewRouter from './routes/interview.routes.js';
 
 
 
+
 const app=express();
 
 app.use(cors({
-    origin: "http://localhost:5173",
-    credentials: true   
+    origin: process.env.FRONTEND_URL,
+    credentials: true
 }));
 
 //This is used for reading the body of the request in json format
