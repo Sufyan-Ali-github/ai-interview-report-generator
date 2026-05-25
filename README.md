@@ -162,7 +162,7 @@ Frontend runs on `http://localhost:5173`
 
 > Interview Report — Technical Questions
 
-![Report](https://via.placeholder.com/800x400?text=Report+Screenshot)
+![Report](https://github.com/Sufyan-Ali-github/ai-interview-report-generator/blob/c646be23204c2c1af5886af7af8801b34737d9ad/report.png)
 
 ---
 
