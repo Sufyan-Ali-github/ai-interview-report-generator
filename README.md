@@ -72,6 +72,7 @@ PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 GOOGLE_API_KEY=your_gemini_api_key
+FRONTEND_URL=your_frontend_localhost
 ```
 
 Start the backend server:
