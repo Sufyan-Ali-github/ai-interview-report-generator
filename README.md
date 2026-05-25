@@ -158,7 +158,7 @@ Frontend runs on `http://localhost:5173`
 
 > Dashboard — Generate Report
 
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Dashboard](https://github.com/Sufyan-Ali-github/ai-interview-report-generator/blob/27d91e98947fbc33960cdd503b94639e4d77a5f7/Dashboard.png)
 
 > Interview Report — Technical Questions
 
